@@ -8,12 +8,18 @@ ndex: <!DOCTYPE html>
 </head>
 <body>
     <h1>Conectando pessoas do campo a cidade.</h1>
-,<h2>
-    O objetivo do meu trabalho é criar um aplicativo, ou um site que conecta produtores do campo a cidade.
-Para os produtores venderem seus produtos,para as pessoas da cidade,o projetofuncionaria da seguinte forma,
-um site seria desenvolvido, assim produtores que tem interesse em vender seus alimentos,acessam o site, fazem 
-o seu cadastro, e assim pessoas da cidade que tem interesse em comprar alimentos de qualidade,entrariam em contato 
-com o produtor.
+<h2>
+     Em um mundo cada vez mais conectado,deve surgir uma iniciativa inovadora que tem como objetivo
+   estreitar laços entre o campo e a cidade.Um novo site será criado com o propósito de conectar 
+   diretamente os produtores rurais aos consumidores urbanos, oferecendo uma plataforma para venda
+   de alimentos frescos e de qualidade.
+     Essa ideia nasceu da necessidade de facilitar o acesso a produtos locais, promovendo não apenas
+   a saúde, mas também o fortalecimento da economia regional.
+      O site será de facíl acesso e navegação, permitindo que os agricultores cadastrem seus produtos 
+   de forma simples,frutas,verduras,legumes e futuramente até produtos artesanais poderam ser encontrados
+   em um só lugar, com uma boa descrição de cada produto, mostrando a origem e modo de produção.
+      Assim os consumidores teram a opotunidade de comprar diretamente do produtor,garantindo alimentos
+    de qualidade, e frescos em suas refeições.     
 </h2>
     <div clas="caixa-principal">
         <h1 class="titulo">Conectando pessoas do campo a cidade.</h1>
